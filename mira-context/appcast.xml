@@ -3,13 +3,18 @@
     <channel>
         <title>OneMira</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 16 Jun 2026 20:14:59 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Wed, 17 Jun 2026 10:40:16 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/onemira-space/onemira-updates/releases/download/v0.1.0/OneMira-0.1.0.zip" length="34997323" type="application/octet-stream" sparkle:edSignature="rx6jyffxXelUrpW1TItuJriUZIqqRsnWDkuPSv6cGswi5KTgLF+ohq0/I3EYzsXNh+Q9rJw0qQHpuKy0TSR0CQ=="/>
+            <description sparkle:format="markdown"><![CDATA[- 全新自动更新体验：发现新版本时主界面顶部温和提示，不再打断
+- 更新内容直接在应用内查看，一键「重启并更新」
+- 自动更新支持三档：自动安装 / 仅通知 / 关闭
+- 更新完成后提示「已更新到新版本」
+]]></description>
+            <enclosure url="https://github.com/onemira-space/onemira-updates/releases/download/v0.2.0/OneMira-0.2.0.zip" length="36308129" type="application/octet-stream" sparkle:edSignature="v6Kv1CtNKofvFbRx/IsZVfd3IxfrnhLM+pxo6MUBlwPGoqRTZSmMMpeZD/xKsU6V0mjDCm5mgxJBiG7jB9EBDA=="/>
         </item>
     </channel>
 </rss>
