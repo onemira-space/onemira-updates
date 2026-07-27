@@ -1,0 +1,11 @@
+{
+  "version": "0.2.3",
+  "notes": "Windows self-update support aligned with macOS, including explicit download progress and relaunch installation.",
+  "pub_date": "2026-07-27T16:09:36.416Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dC9WVlVGbGN6QWo2VTlJUmV2WHRodnJnYmlINmMwVXFqamlFdUtVbEJPSExKWEVmVEN2UnVNZWhGTUJjRDZFV2xFaVppN0I3N29ITm9mNVM5SHZoUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTY4NDY0CWZpbGU6TWlyYV8wLjIuM194NjQtc2V0dXAuZXhlCkNNdVBQWU95ck11cTdWMW0xamVUTUhPWDZoSkF2N0tlZE5Mb3JBRlNNQzUxUkFtUUkxeFA1QjhlSFNxVTdaOXk5dnJjZ2xmWmNFNkhJV3ZwRHprN0R3PT0K",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/v0.2.3/OneMira-Windows-0.2.3-x64-setup.exe"
+    }
+  }
+}
