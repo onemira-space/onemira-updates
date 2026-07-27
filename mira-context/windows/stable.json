@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "Windows self-update support aligned with macOS, including explicit download progress and relaunch installation. Fixes updater handoff on slower Windows systems by waiting for the previous executable to unlock.",
-  "pub_date": "2026-07-27T16:45:48.489Z",
+  "version": "0.2.5",
+  "notes": "Final Windows self-update release. Includes signed update UX aligned with macOS, resilient NSIS process handoff on slow or emulated Windows systems, and trustworthy release build metadata.",
+  "pub_date": "2026-07-27T17:09:34.088Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dDNzSndRSEJBZEJpLzJycFkrbUFUQVN3b0dwb1BDdUJncThQMlVvdEp3d1ZIZjRFdG1DdDhzSFBDaFRqVDFsRVdKLytSVCs2SXFzaU9KajdOaWxTMWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTcwNjg4CWZpbGU6TWlyYV8wLjIuNF94NjQtc2V0dXAuZXhlCmVlYXFXTk56bXk2MXdlaDNNdlMvNTRidFZZZGVGUmF1SHdTSlZodzhEbTlOV2FJczNqdS9uUDdNS1RrbUpBbDhrZksyWHJoWW9OVFFHblFkRVAyQUFRPT0K",
-      "url": "https://github.com/onemira-space/onemira-updates/releases/download/v0.2.4/OneMira-Windows-0.2.4-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dCtQZ28yVlp1OEZBV0RnTnZ3S3I5L2lPTlFiVEllNTdLRFdTeEVySU8wdzlYL29UbXVWN1R6WXR2U3c0SXEraWp1QUxzd2dsc1QrTURTS2xqZ3pqR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTcyMDY5CWZpbGU6TWlyYV8wLjIuNV94NjQtc2V0dXAuZXhlCkdGSldSb2FaZlZvNi9SRHFoNEpVb0hna3dRRFdKdzdsU0RGbHVFZVFNczljdk1LdXdxMEdXUTRkUVFqYUlLQXIzQkJUYXNtTVR6d0MxaXRJMUxJa0FRPT0K",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/v0.2.5/OneMira-Windows-0.2.5-x64-setup.exe"
     }
   }
 }
