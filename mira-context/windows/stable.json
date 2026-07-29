@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "Final Windows self-update release. Includes signed update UX aligned with macOS, resilient NSIS process handoff on slow or emulated Windows systems, and trustworthy release build metadata.",
-  "pub_date": "2026-07-27T17:09:34.088Z",
+  "version": "0.2.6",
+  "notes": "",
+  "pub_date": "2026-07-29T10:42:04+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dCtQZ28yVlp1OEZBV0RnTnZ3S3I5L2lPTlFiVEllNTdLRFdTeEVySU8wdzlYL29UbXVWN1R6WXR2U3c0SXEraWp1QUxzd2dsc1QrTURTS2xqZ3pqR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTcyMDY5CWZpbGU6TWlyYV8wLjIuNV94NjQtc2V0dXAuZXhlCkdGSldSb2FaZlZvNi9SRHFoNEpVb0hna3dRRFdKdzdsU0RGbHVFZVFNczljdk1LdXdxMEdXUTRkUVFqYUlLQXIzQkJUYXNtTVR6d0MxaXRJMUxJa0FRPT0K",
-      "url": "https://github.com/onemira-space/onemira-updates/releases/download/v0.2.5/OneMira-Windows-0.2.5-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dDMzemEvMmp1ZzZUbGZTd3U3SXl1WDZBc2hBTWR2Z2pyTC85Rjl1bTBxQ2ZzelNyVytmWGF2RGRtUWVqOS92Z1I0bzNZTjhvQVJwTnhmcFhBYjcrbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mjk2NzU3CWZpbGU6TWlyYV8wLjIuNl94NjQtc2V0dXAuZXhlCjN6WjFEUXVOMTc2Z2ZTSzY5L3QxdjR5TVI2ak5INjU5bHdEOENTTkMwNm82eDBCWGhBUTNoU3EzL2hLaGVia0U3cXJxcFIrMFM3VU1CTXVUOTRUZUFnPT0K",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.07.29.1/OneMira-Windows-0.2.6-x64-setup.exe"
     }
   }
 }
