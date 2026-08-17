@@ -17,7 +17,7 @@
   "properties": {
     "schema_version": { "const": 1 },
     "product": { "const": "mira-context" },
-    "chip": { "enum": ["BH1098", "BH1199"] },
+    "chip": { "const": "BH1098" },
     "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
     "published_at": { "type": "string", "format": "date-time" },
     "minimum_current_version": { "type": ["string", "null"] },
@@ -63,14 +63,15 @@
         {
           "type": "object",
           "additionalProperties": false,
-          "required": ["url", "sha256", "size", "opcode", "base_address", "expected_crc32"],
+          "required": ["url", "sha256", "size", "format", "opcode", "handoff", "partition_strategy"],
           "properties": {
             "url": { "type": "string", "format": "uri", "pattern": "^https://" },
             "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
             "size": { "type": "integer", "minimum": 1 },
-            "opcode": { "enum": ["bootrom", "userboot"] },
-            "base_address": { "type": "string", "pattern": "^0x[0-9A-Fa-f]{8}$" },
-            "expected_crc32": { "type": "string", "pattern": "^0x[0-9A-Fa-f]{8}$" }
+            "format": { "const": "bh1098-partition-zip" },
+            "opcode": { "const": "userboot" },
+            "handoff": { "const": "application-mbc1-0x33" },
+            "partition_strategy": { "const": "inactive-application-slot" }
           }
         }
       ]
