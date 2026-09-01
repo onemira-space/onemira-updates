@@ -3,13 +3,13 @@
     <channel>
         <title>OneMira</title>
         <item>
-            <title>0.2.19</title>
-            <pubDate>Tue, 01 Sep 2026 06:11:28 +0800</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.2.19</sparkle:shortVersionString>
+            <title>0.2.20</title>
+            <pubDate>Tue, 01 Sep 2026 10:13:08 +0800</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.2.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.08.31.4/OneMira-macOS-0.2.19-arm64.zip" length="34453456" type="application/octet-stream" sparkle:edSignature="NfH4DQk1QAH/eF2Nr+TtT236t4DTp7fgL1g2xAqBY4mRw0lTxhUlZgDI6CpYiHE0dqVj5DjLisHBiv6afUoMCQ==" />
+            <enclosure url="https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.09.01.1/OneMira-macOS-0.2.20-arm64.zip" length="34453454" type="application/octet-stream" sparkle:edSignature="M1+d/wvezJIoANzNefgQSZK85/TV/OzhqnDzL2XNLp1mpoPv717Us01NPcTnjoWCtqOplY65+lZvC7D32HxzBw==" />
         </item>
     </channel>
 </rss>
