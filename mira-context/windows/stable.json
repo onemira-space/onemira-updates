@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "notes": "",
-  "pub_date": "2026-09-20T21:02:27+08:00",
+  "notes": "Installer repair: direct overwrite, data retention and consistent installation UI.",
+  "pub_date": "2026-09-20T14:39:43.699Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dHloRG9XWDVCand3Tkpva3V1cHNXVlloRjFTTVhqc3h6VWpNaUg1SEhmWlVEc0ZDZkEwU2xTSGhFVlRtakF4Mzc5NG5nQzJidTcrTVhTMWg2cy9mTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTEwNzUxCWZpbGU6TWlyYV8xLjAuMF94NjQtc2V0dXAuZXhlCkx6YzI1aDFUazVhRi9GNmZsT3NPNG1ubnZJM09JUzEyYS9iRTMxbDhXWXRIU3lsZVN4WTN4azNCM3NXUXJGNkx2Znl3dWNGL1VMMVdvclFWRkxScUR3PT0K",
-      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.09.20.1/OneMira-Windows-1.0.0-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dCtnOVdTZjQ1eFgrdEhoM0dRR3FrTGYzQ3A3a3NLQkMyaW9ueDdWdlhZVnZIUERJc3NkV2x1V1V4aFQwYUJXTVA0N09TblZ3VnBjdXd6cDlmMTd5N2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE0NzgxCWZpbGU6TWlyYV8xLjAuMF94NjQtc2V0dXAuZXhlCjJvdlRFMUQ0UGsvTHFIOFNQaFUwTk5PRllrRU55MjVBQmtJV1VrV3UwNWx1OHVJZ2k2ZGRtWXlNbnl4VVdKN1B4SXd2QjNTQk1zY2RuOWF1R2xXNkFRPT0K",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.09.20.2/OneMira-Windows-1.0.0-x64-setup.exe"
     }
   }
 }
