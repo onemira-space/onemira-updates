@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": "",
-  "pub_date": "2026-09-22T22:53:09+08:00",
+  "pub_date": "2026-09-24T23:33:23+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dDlRYnlNWUhIYnFOT0tUVjdJWkx4ZVlBL0RxTnIvM2NTbUtzUWFMbHBaaFpoNG12M1l5V2kwODE1bGF2eG1OeDExbTZ6NitsSUtGUllRckRXYXFhSndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDkwMTU4CWZpbGU6TWlyYV8xLjAuMV94NjQtc2V0dXAuZXhlCjVQaDB4RzBYb3BaclpHSXNVRHROTEZoUkRtblJjbVROSGR5WnRPK1QwOFJ4SnF4QXdtUkZTVjBWQi9SME9uL3YxMXl5TVRCN0o0c3BtYnVNSDNXTUFRPT0K",
-      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.09.22.4/OneMira-Windows-1.0.1-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dCtHWWFmNllNMUM0Y0MwaEU5QnJnT3VqTFlHbVpLUnE1TkJiOTFBbzBpMzJRalhPQ2VQKzh0TDh4UTN0Z0VESmJSeUtEMy9CNWRQRWhwYWdGMTVNUHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjY1MDg1CWZpbGU6TWlyYV8xLjAuMl94NjQtc2V0dXAuZXhlCm5Bc2dKREU5MzFnWWxYVDBxU0tnZFNPbk9nY1Fxa2hzNUdWa005WjhRUUxIVkE0UHUzVDNtUGlZVlpnUGljU04rcnFrRFBBNEU5SW44MnFrS1hzUUFRPT0K",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.09.24.2/OneMira-Windows-1.0.2-x64-setup.exe"
     }
   }
 }
