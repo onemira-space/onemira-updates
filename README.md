@@ -1,12 +1,12 @@
 # onemira-updates
 
-OneMira 桌面应用的更新源（公开）。
+Public update feeds for the OneMira desktop app.
 
-- `mira-context/appcast.xml` — Sparkle 更新清单，经 GitHub Pages 以 `https://updates.onemira.com/mira-context/appcast.xml` 提供。
-- `mira-context/windows/stable.json` — Tauri v2 Windows 稳定通道清单，经 GitHub Pages 以 `https://updates.onemira.com/mira-context/windows/stable.json` 提供。
-- 更新 zip 包作为本仓库 **Releases** 的附件上传，URL 形如
-  `https://github.com/onemira-space/onemira-updates/releases/download/<tag>/OneMira-<ver>.zip`。
-- Windows NSIS 安装包及其 `.sig` 也作为 Release 附件上传；清单中的
-  `windows-x86_64.signature` 是 `.sig` 文件的完整内容。
+- `mira-context/macos/appcast.xml` — Sparkle update manifest, served via GitHub Pages at `https://updates.onemira.com/mira-context/macos/appcast.xml`.
+- `mira-context/windows/stable.json` — Tauri v2 Windows stable-channel manifest, served via GitHub Pages at `https://updates.onemira.com/mira-context/windows/stable.json`.
+- Update ZIP archives are uploaded as assets to this repository's **Releases**, with URLs such as
+  `https://github.com/onemira-space/onemira-updates/releases/download/<tag>/OneMira-<ver>.zip`.
+- Windows NSIS installers and their `.sig` files are also uploaded as release assets.
+  The manifest's `windows-x86_64.signature` field contains the full contents of the `.sig` file.
 
-源码不在此仓库（私有 `onemira-space/mira-context`）。
+Source code is maintained separately in the private `onemira-space/mira-context` repository.
