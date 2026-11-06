@@ -26,4 +26,4 @@ Source code is maintained separately in the private `onemira-space/mira-context`
 
 [![OneMira C1 Real-Time Local AI & Speaker ID](https://cdn.shopify.com/s/files/1/0822/6897/9444/files/c1-pdp-01-realtime-wiki.jpg)](https://onemira.com/products/c1)
 
-👉 **[Order OneMira C1 ($99, $0/mo)](https://onemira.com/products/c1)** · **[OneMira MCP Server](https://github.com/onemira-space/onemira-mcp)** · **[AI Voice Recorder Without Subscription](https://onemira.com/ai-voice-recorder-without-subscription)** · **[Setup & Docs](https://onemira.com/docs/getting-started/whats-in-the-box)**
+👉 **[Order OneMira C1 ($99, $0/mo)](https://onemira.com/products/c1)** · **[OneMira MCP Server](https://github.com/onemira-space/onemira-mcp)** · **[AI Voice Recorder Without Subscription](https://onemira.com/ai-voice-recorder-without-subscription)** · **[Setup & Docs](https://onemira.com/docs/unboxing)**
