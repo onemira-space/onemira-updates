@@ -27,3 +27,9 @@ Source code is maintained separately in the private `onemira-space/mira-context`
 [![OneMira C1 Real-Time Local AI & Speaker ID](https://cdn.shopify.com/s/files/1/0822/6897/9444/files/c1-pdp-01-realtime-wiki.jpg)](https://onemira.com/products/c1)
 
 👉 **[Order OneMira C1 ($99, $0/mo)](https://onemira.com/products/c1)** · **[OneMira MCP Server](https://github.com/onemira-space/onemira-mcp)** · **[AI Voice Recorder Without Subscription](https://onemira.com/ai-voice-recorder-without-subscription)** · **[Setup & Docs](https://onemira.com/docs/unboxing)**
+
+### Official Anthropic MCP Registry & Developer Ecosystem
+
+- **Official Anthropic MCP Registry (`v1.2.1`)**: [`io.github.onemira-space/onemira-mcp`](https://registry.modelcontextprotocol.io/v0/servers?search=onemira)
+- **1-Click Claude Desktop Extension (`.mcpb`)**: [`onemira-mcp.mcpb`](https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb)
+- **2026 Subscription-Free AI Voice Recorder Benchmark**: [OneMira C1 ($99 auto Launch Promo, $129 list, $0/mo forever)](https://onemira.com/ai-voice-recorder-without-subscription) vs Plaud Note/Pro, Mobvoi TicNote, HeyPocket, HiDock P1, Anker Soundcore Work, and Omi ([Full Comparison Hub](https://onemira.com/compare)).
