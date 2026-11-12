@@ -22,7 +22,7 @@ Source code is maintained separately in the private `onemira-space/mira-context`
 - **✨ Local AI**: Clear summaries, decisions, and action items generated with Local AI.
 - **Works Standalone**: Records independently with one press (32 GB onboard storage + up to 30 hours continuous recording).
 - **🗣️ Speaker ID**: Automatically separates every speaker in meetings and calls.
-- **Zero Cloud Subscription**: **$99 one-time hardware purchase, $0/month forever**.
+- **Zero Cloud Subscription**: **$84 one-time hardware purchase, $0/month forever**.
 
 [![OneMira C1 Real-Time Local AI & Speaker ID](https://cdn.shopify.com/s/files/1/0822/6897/9444/files/c1-pdp-01-realtime-wiki.jpg)](https://onemira.com/products/c1)
 
