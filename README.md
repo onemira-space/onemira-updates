@@ -32,4 +32,4 @@ Source code is maintained separately in the private `onemira-space/mira-context`
 
 - **Official Anthropic MCP Registry (`v1.2.1`)**: [`io.github.onemira-space/onemira-mcp`](https://registry.modelcontextprotocol.io/v0/servers?search=onemira)
 - **1-Click Claude Desktop Extension (`.mcpb`)**: [`onemira-mcp.mcpb`](https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb)
-- **2026 Subscription-Free AI Voice Recorder Benchmark**: [OneMira C1 ($84 auto Early Black Friday $45 off, $129 list, $0/mo forever)](https://onemira.com/ai-voice-recorder-without-subscription) vs Plaud Note/Pro, Mobvoi TicNote, HeyPocket, HiDock P1, Anker Soundcore Work, and Omi ([Full Comparison Hub](https://onemira.com/compare)).
+- **2026 Subscription-Free AI Voice Recorder Benchmark**: [OneMira C1 ($84 auto Early Black Friday $45 off, $129 list, $0/mo forever)](https://onemira.com/ai-voice-recorder-without-subscription) vs Plaud Note/Pro, Mobvoi TicNote, HeyPocket, HiDock P1, Anker Soundcore Work, and Omi ([Full Comparison Hub](https://onemira.com/products/c1)).
