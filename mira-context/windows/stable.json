@@ -1,16 +1,16 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "notes": "",
-  "pub_date": "2026-11-21T08:32:20+08:00",
+  "pub_date": "2026-11-22T03:16:44+08:00",
   "default_architecture": "x86_64",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dDhHTElwREJrSnhoVXQwc3dIZTlMTnB3MU4yS25CUTAxVG9GMlhPSnQwWC92OTBVTkovOVlqM0IyUWJqRDNuT3Q1RFVLL3BZYWpmWEg4Z2dIdE1Xd1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2NDcxCWZpbGU6TWlyYV8xLjAuMjZfeDY0LXNldHVwLmV4ZQphcm5MZEtMeE9KY3prN1UyRkpQdXN2eFVWTG93V3N6Z21TdnhYRzBmeGhkZFFPSktkczNiZWdUeW40U3gwa003RURVWFkrUWFXS2RNQjB2ZFVCQ1NCUT09Cg==",
-      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.21.1/OneMira-Windows-1.0.26-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dHdWUlJwaHRQSXQ0eFlTQmFTUm5tajhib2Z2ZU84bDZ3SlFBd003bzdCeU5TNXBzOHdSMGtzaFlnZUF4bEJsWlRjQjQzMTNOVmQ3UUo1YkZ0QzZEelFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjkwOTY5CWZpbGU6TWlyYV8xLjAuMjdfeDY0LXNldHVwLmV4ZQovMGs5Y3MycG5EeW5HU1BaUEZBRUp5TUptcHNDb1lvQ2I3WXBWQVpLT3dFd2JlSnpVR1BEd01JQzZoSHEyYnM4ZEZxVFdmQ2tCZVp3MGM0K2Y4NHlEZz09Cg==",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.21.3/OneMira-Windows-1.0.27-x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dDhoTDE5eEtXTDh4Yzd3RStkZFg2K2hoaEJoRnBRVDB4K0dKZFhCZkZHNFlDNVdSbUE0MCtFWk5meG5tY3psZ05iZ2V1YmxnaGsvVUpvQktzNmtwSGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI1MTg3CWZpbGU6TWlyYV8xLjAuMjZfYXJtNjQtc2V0dXAuZXhlCjBrM2hXdTdJTnZkYWNUZHB2NHdFRHNvOGlxVWt6UlpjTE4zbFNyemloRGhkWG5rR2tvOFZ0ZDNyWVBScjhFM0lUQ0JaM05GT1hkbHBvV2I4ZmdMVEJ3PT0K",
-      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.21.1/OneMira-Windows-1.0.26-arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVWVEQ0RwSTh3dDR4T3NjYWY0ditMRmxna1pxL0U2L0RnZUVkaFR2STV5a1Z4a1NTOWpDekxTV0dZZWFIU2V4SEc1OGx4ckNFTGlMWnNMVDZFR0ljcGhZbTBRMWFtZlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjkyNjA5CWZpbGU6TWlyYV8xLjAuMjdfYXJtNjQtc2V0dXAuZXhlClpZY1pRbFdFRk8rbC94WkdIbDUwNHdkRkpmL1JWOFJnNm5md2ZweERpaitBTFFaaGRmWTNqcjNMbzBhUjJLM2IyYngxd2o2TVZaQ3grYWp1c0NhSEFnPT0K",
+      "url": "https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.21.3/OneMira-Windows-1.0.27-arm64-setup.exe"
     }
   }
 }
